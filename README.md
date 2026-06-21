@@ -1,6 +1,6 @@
 # Smart Contact Management System and Performance Benchmark Suite
 
-An advanced, high-performance Java application engineered to store, search, and optimize contact management operations using an optimized hybrid data structure architecture. By deploying specialized concurrent data structures—including a Prefix Tree (Trie), a Self-Balancing Binary Search Tree (AVL Tree), and a Hash Table—the system achieves optimal algorithmic time complexity across distinct lookup, sorting, and prefix-matching paradigms, moving away from inefficient linear array sweeps.
+An advanced, high-performance Java application engineered to store, search, and optimize contact management operations using an optimized hybrid data structure architecture. By deploying specialized concurrent data structures including a Prefix Tree (Trie), a Self Balancing Binary Search Tree (AVL Tree), and a Hash Table the system achieves optimal algorithmic time complexity across distinct lookup, sorting, and prefix-matching paradigms, moving away from inefficient linear array sweeps.
 
 ---
 
