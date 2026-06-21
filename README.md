@@ -59,12 +59,6 @@ To maximize performance in high-throughput enterprise environments, the system m
 
 ---
 
-## Engineering Team and Roles
-
-* **Ibrahim Alamgir:** Software Engineering Lead (Hybrid Data Structure Design, AVL Tree Rotation Mechanics, Trie Traversal Optimization, Architectural Synchronizer).
-
----
-
 ## Project Context and References
 
 Developed to explore operational efficiency limits and complexity trade-offs between linear, logarithmic, and constant-time search architectures.
